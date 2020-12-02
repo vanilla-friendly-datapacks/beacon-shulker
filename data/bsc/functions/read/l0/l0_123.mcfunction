@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:attached_melon_stem[facing=north] run scoreboard players set block bsc 4768
+execute if block ~ ~ ~ minecraft:attached_melon_stem[facing=south] run scoreboard players set block bsc 4769
+execute if block ~ ~ ~ minecraft:attached_melon_stem[facing=west] run scoreboard players set block bsc 4770
+execute if block ~ ~ ~ minecraft:attached_melon_stem[facing=east] run scoreboard players set block bsc 4771
+execute if block ~ ~ ~ minecraft:pumpkin_stem[age=0] run scoreboard players set block bsc 4772
+execute if block ~ ~ ~ minecraft:pumpkin_stem[age=1] run scoreboard players set block bsc 4773
+execute if block ~ ~ ~ minecraft:pumpkin_stem[age=2] run scoreboard players set block bsc 4774
+execute if block ~ ~ ~ minecraft:pumpkin_stem[age=3] run scoreboard players set block bsc 4775
+execute if block ~ ~ ~ minecraft:pumpkin_stem[age=4] run scoreboard players set block bsc 4776
+execute if block ~ ~ ~ minecraft:pumpkin_stem[age=5] run scoreboard players set block bsc 4777
+execute if block ~ ~ ~ minecraft:pumpkin_stem[age=6] run scoreboard players set block bsc 4778
+execute if block ~ ~ ~ minecraft:pumpkin_stem[age=7] run scoreboard players set block bsc 4779

@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": "A Beacon to go, please!",
+    "icon": {
+      "item": "minecraft:shulker_box",
+      "nbt": "{Enchantments:[{id:\"minecraft:binding_curse\"}]}"
+    },
+    "show_toast": false,
+    "title": "Beacon Shulker"
+  },
+  "parent": "global:zerotask"
+}

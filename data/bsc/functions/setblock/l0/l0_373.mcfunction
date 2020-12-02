@@ -1,0 +1,7 @@
+execute if score block bsc matches 16244 run setblock ~ ~ ~ minecraft:blackstone_slab[type=top,waterlogged=true]
+execute if score block bsc matches 16245 run setblock ~ ~ ~ minecraft:blackstone_slab[type=top,waterlogged=false]
+execute if score block bsc matches 16246 run setblock ~ ~ ~ minecraft:blackstone_slab[type=bottom,waterlogged=true]
+execute if score block bsc matches 16247 run setblock ~ ~ ~ minecraft:blackstone_slab[type=bottom,waterlogged=false]
+execute if score block bsc matches 16248 run setblock ~ ~ ~ minecraft:blackstone_slab[type=double,waterlogged=true]
+execute if score block bsc matches 16249 run setblock ~ ~ ~ minecraft:blackstone_slab[type=double,waterlogged=false]
+execute if score block bsc matches 16250 run setblock ~ ~ ~ minecraft:polished_blackstone[]

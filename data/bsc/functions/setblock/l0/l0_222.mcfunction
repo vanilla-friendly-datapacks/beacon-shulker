@@ -1,0 +1,8 @@
+execute if score block bsc matches 8201 run setblock ~ ~ ~ minecraft:brown_wall_banner[facing=north]
+execute if score block bsc matches 8202 run setblock ~ ~ ~ minecraft:brown_wall_banner[facing=south]
+execute if score block bsc matches 8203 run setblock ~ ~ ~ minecraft:brown_wall_banner[facing=west]
+execute if score block bsc matches 8204 run setblock ~ ~ ~ minecraft:brown_wall_banner[facing=east]
+execute if score block bsc matches 8205 run setblock ~ ~ ~ minecraft:green_wall_banner[facing=north]
+execute if score block bsc matches 8206 run setblock ~ ~ ~ minecraft:green_wall_banner[facing=south]
+execute if score block bsc matches 8207 run setblock ~ ~ ~ minecraft:green_wall_banner[facing=west]
+execute if score block bsc matches 8208 run setblock ~ ~ ~ minecraft:green_wall_banner[facing=east]

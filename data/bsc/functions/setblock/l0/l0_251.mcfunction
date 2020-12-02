@@ -1,0 +1,5 @@
+execute if score block bsc matches 9249 run setblock ~ ~ ~ minecraft:frosted_ice[age=0]
+execute if score block bsc matches 9250 run setblock ~ ~ ~ minecraft:frosted_ice[age=1]
+execute if score block bsc matches 9251 run setblock ~ ~ ~ minecraft:frosted_ice[age=2]
+execute if score block bsc matches 9252 run setblock ~ ~ ~ minecraft:frosted_ice[age=3]
+execute if score block bsc matches 9253 run setblock ~ ~ ~ minecraft:magma_block[]

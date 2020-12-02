@@ -1,0 +1,1 @@
+function bsc:setblock/l9/l9_0

@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:brown_shulker_box[facing=north] run scoreboard players set block bsc 9350
+execute if block ~ ~ ~ minecraft:brown_shulker_box[facing=east] run scoreboard players set block bsc 9351
+execute if block ~ ~ ~ minecraft:brown_shulker_box[facing=south] run scoreboard players set block bsc 9352
+execute if block ~ ~ ~ minecraft:brown_shulker_box[facing=west] run scoreboard players set block bsc 9353
+execute if block ~ ~ ~ minecraft:brown_shulker_box[facing=up] run scoreboard players set block bsc 9354
+execute if block ~ ~ ~ minecraft:brown_shulker_box[facing=down] run scoreboard players set block bsc 9355
+execute if block ~ ~ ~ minecraft:green_shulker_box[facing=north] run scoreboard players set block bsc 9356
+execute if block ~ ~ ~ minecraft:green_shulker_box[facing=east] run scoreboard players set block bsc 9357
+execute if block ~ ~ ~ minecraft:green_shulker_box[facing=south] run scoreboard players set block bsc 9358
+execute if block ~ ~ ~ minecraft:green_shulker_box[facing=west] run scoreboard players set block bsc 9359
+execute if block ~ ~ ~ minecraft:green_shulker_box[facing=up] run scoreboard players set block bsc 9360
+execute if block ~ ~ ~ minecraft:green_shulker_box[facing=down] run scoreboard players set block bsc 9361

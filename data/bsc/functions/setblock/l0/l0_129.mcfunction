@@ -1,0 +1,5 @@
+execute if score block bsc matches 5128 run setblock ~ ~ ~ minecraft:nether_wart[age=0]
+execute if score block bsc matches 5129 run setblock ~ ~ ~ minecraft:nether_wart[age=1]
+execute if score block bsc matches 5130 run setblock ~ ~ ~ minecraft:nether_wart[age=2]
+execute if score block bsc matches 5131 run setblock ~ ~ ~ minecraft:nether_wart[age=3]
+execute if score block bsc matches 5132 run setblock ~ ~ ~ minecraft:enchanting_table[]

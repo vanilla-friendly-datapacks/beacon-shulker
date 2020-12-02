@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "placed_beacon": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "item": {
+          "tag": "zerotask:beacon_shulker/shulkers"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "zerotask:beacon_shulker/private/event/on_shulker_placed"
+  }
+}

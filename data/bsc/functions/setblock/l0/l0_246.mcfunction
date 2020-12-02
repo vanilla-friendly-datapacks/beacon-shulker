@@ -1,0 +1,7 @@
+execute if score block bsc matches 9128 run setblock ~ ~ ~ minecraft:chorus_flower[age=0]
+execute if score block bsc matches 9129 run setblock ~ ~ ~ minecraft:chorus_flower[age=1]
+execute if score block bsc matches 9130 run setblock ~ ~ ~ minecraft:chorus_flower[age=2]
+execute if score block bsc matches 9131 run setblock ~ ~ ~ minecraft:chorus_flower[age=3]
+execute if score block bsc matches 9132 run setblock ~ ~ ~ minecraft:chorus_flower[age=4]
+execute if score block bsc matches 9133 run setblock ~ ~ ~ minecraft:chorus_flower[age=5]
+execute if score block bsc matches 9134 run setblock ~ ~ ~ minecraft:purpur_block[]

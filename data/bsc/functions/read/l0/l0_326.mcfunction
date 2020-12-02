@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:polished_andesite_slab[type=top,waterlogged=true] run scoreboard players set block bsc 10855
+execute if block ~ ~ ~ minecraft:polished_andesite_slab[type=top,waterlogged=false] run scoreboard players set block bsc 10856
+execute if block ~ ~ ~ minecraft:polished_andesite_slab[type=bottom,waterlogged=true] run scoreboard players set block bsc 10857
+execute if block ~ ~ ~ minecraft:polished_andesite_slab[type=bottom,waterlogged=false] run scoreboard players set block bsc 10858
+execute if block ~ ~ ~ minecraft:polished_andesite_slab[type=double,waterlogged=true] run scoreboard players set block bsc 10859
+execute if block ~ ~ ~ minecraft:polished_andesite_slab[type=double,waterlogged=false] run scoreboard players set block bsc 10860
+execute if block ~ ~ ~ minecraft:diorite_slab[type=top,waterlogged=true] run scoreboard players set block bsc 10861
+execute if block ~ ~ ~ minecraft:diorite_slab[type=top,waterlogged=false] run scoreboard players set block bsc 10862
+execute if block ~ ~ ~ minecraft:diorite_slab[type=bottom,waterlogged=true] run scoreboard players set block bsc 10863
+execute if block ~ ~ ~ minecraft:diorite_slab[type=bottom,waterlogged=false] run scoreboard players set block bsc 10864
+execute if block ~ ~ ~ minecraft:diorite_slab[type=double,waterlogged=true] run scoreboard players set block bsc 10865
+execute if block ~ ~ ~ minecraft:diorite_slab[type=double,waterlogged=false] run scoreboard players set block bsc 10866

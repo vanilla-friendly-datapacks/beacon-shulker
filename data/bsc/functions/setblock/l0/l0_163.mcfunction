@@ -1,0 +1,8 @@
+execute if score block bsc matches 6610 run setblock ~ ~ ~ minecraft:anvil[facing=north]
+execute if score block bsc matches 6611 run setblock ~ ~ ~ minecraft:anvil[facing=south]
+execute if score block bsc matches 6612 run setblock ~ ~ ~ minecraft:anvil[facing=west]
+execute if score block bsc matches 6613 run setblock ~ ~ ~ minecraft:anvil[facing=east]
+execute if score block bsc matches 6614 run setblock ~ ~ ~ minecraft:chipped_anvil[facing=north]
+execute if score block bsc matches 6615 run setblock ~ ~ ~ minecraft:chipped_anvil[facing=south]
+execute if score block bsc matches 6616 run setblock ~ ~ ~ minecraft:chipped_anvil[facing=west]
+execute if score block bsc matches 6617 run setblock ~ ~ ~ minecraft:chipped_anvil[facing=east]

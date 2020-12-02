@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:petrified_oak_slab[type=top,waterlogged=true] run scoreboard players set block bsc 8360
+execute if block ~ ~ ~ minecraft:petrified_oak_slab[type=top,waterlogged=false] run scoreboard players set block bsc 8361
+execute if block ~ ~ ~ minecraft:petrified_oak_slab[type=bottom,waterlogged=true] run scoreboard players set block bsc 8362
+execute if block ~ ~ ~ minecraft:petrified_oak_slab[type=bottom,waterlogged=false] run scoreboard players set block bsc 8363
+execute if block ~ ~ ~ minecraft:petrified_oak_slab[type=double,waterlogged=true] run scoreboard players set block bsc 8364
+execute if block ~ ~ ~ minecraft:petrified_oak_slab[type=double,waterlogged=false] run scoreboard players set block bsc 8365
+execute if block ~ ~ ~ minecraft:cobblestone_slab[type=top,waterlogged=true] run scoreboard players set block bsc 8366
+execute if block ~ ~ ~ minecraft:cobblestone_slab[type=top,waterlogged=false] run scoreboard players set block bsc 8367
+execute if block ~ ~ ~ minecraft:cobblestone_slab[type=bottom,waterlogged=true] run scoreboard players set block bsc 8368
+execute if block ~ ~ ~ minecraft:cobblestone_slab[type=bottom,waterlogged=false] run scoreboard players set block bsc 8369
+execute if block ~ ~ ~ minecraft:cobblestone_slab[type=double,waterlogged=true] run scoreboard players set block bsc 8370
+execute if block ~ ~ ~ minecraft:cobblestone_slab[type=double,waterlogged=false] run scoreboard players set block bsc 8371

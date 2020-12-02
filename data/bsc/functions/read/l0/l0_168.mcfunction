@@ -1,0 +1,11 @@
+execute if block ~ ~ ~ minecraft:hopper[enabled=true,facing=down] run scoreboard players set block bsc 6728
+execute if block ~ ~ ~ minecraft:hopper[enabled=true,facing=north] run scoreboard players set block bsc 6729
+execute if block ~ ~ ~ minecraft:hopper[enabled=true,facing=south] run scoreboard players set block bsc 6730
+execute if block ~ ~ ~ minecraft:hopper[enabled=true,facing=west] run scoreboard players set block bsc 6731
+execute if block ~ ~ ~ minecraft:hopper[enabled=true,facing=east] run scoreboard players set block bsc 6732
+execute if block ~ ~ ~ minecraft:hopper[enabled=false,facing=down] run scoreboard players set block bsc 6733
+execute if block ~ ~ ~ minecraft:hopper[enabled=false,facing=north] run scoreboard players set block bsc 6734
+execute if block ~ ~ ~ minecraft:hopper[enabled=false,facing=south] run scoreboard players set block bsc 6735
+execute if block ~ ~ ~ minecraft:hopper[enabled=false,facing=west] run scoreboard players set block bsc 6736
+execute if block ~ ~ ~ minecraft:hopper[enabled=false,facing=east] run scoreboard players set block bsc 6737
+execute if block ~ ~ ~ minecraft:quartz_block[] run scoreboard players set block bsc 6738

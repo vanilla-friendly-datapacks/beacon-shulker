@@ -1,0 +1,9 @@
+execute if block ~ ~ ~ minecraft:end_portal[] run scoreboard players set block bsc 5145
+execute if block ~ ~ ~ minecraft:end_portal_frame[eye=true,facing=north] run scoreboard players set block bsc 5146
+execute if block ~ ~ ~ minecraft:end_portal_frame[eye=true,facing=south] run scoreboard players set block bsc 5147
+execute if block ~ ~ ~ minecraft:end_portal_frame[eye=true,facing=west] run scoreboard players set block bsc 5148
+execute if block ~ ~ ~ minecraft:end_portal_frame[eye=true,facing=east] run scoreboard players set block bsc 5149
+execute if block ~ ~ ~ minecraft:end_portal_frame[eye=false,facing=north] run scoreboard players set block bsc 5150
+execute if block ~ ~ ~ minecraft:end_portal_frame[eye=false,facing=south] run scoreboard players set block bsc 5151
+execute if block ~ ~ ~ minecraft:end_portal_frame[eye=false,facing=west] run scoreboard players set block bsc 5152
+execute if block ~ ~ ~ minecraft:end_portal_frame[eye=false,facing=east] run scoreboard players set block bsc 5153

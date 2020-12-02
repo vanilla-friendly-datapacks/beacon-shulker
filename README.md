@@ -1,22 +1,26 @@
-> __NOTE:__ If you happen to use this template, make sure to replace the Kofi username inside the `.github/FUNDING.yml` file :)
+# Beacon Shulker
 
-# Projectname
-
-> A Minecraft 1.16.x data pack that
+> A Minecraft 1.16.x data pack that allows you to easily transport your beacons around.
 
 ## Installation
 
-Download the latest release from [here][latest] and put the datapack zip file into the `datapacks` folder of your Minecraft world. Download the resourcepack zip file (if available) and enable the pack in your client.
+Download the latest release from [here][latest] and put the datapack zip file into the `datapacks` folder of your Minecraft world.
 
-I usually provide resourcepacks to allow translations of my datapacks :)
+## Usage
 
-## Crafting
+Just place an empty `Shulker Box` on top of a working beacon. The beacon gets stored inside the `Shulker Box`. To restore your beacon, place the `Shulker Box` again. The beacon replaces all blocks that are in its way (except for bedrock), you won't get block drops from them. The beacon block itself will be placed below the `Shulker Box`, so you need some room under it.
 
 ## FAQ
 
+**Q:** But why though?
+
+**A:** I've decorated my beacon using some netherite blocks and I can tell you, mining those without Haste II is annoying...
+
 ## Uninstallation
 
-To uninstall the datapack, run the `zerotask:REPLACE/uninstall` function and remove the datapack from your world save. Afterwards, run `reload`.
+To uninstall the datapack, run the `zerotask:beacon_shulker/uninstall` function and remove the datapack from your world save. Afterwards, run `reload`.
+
+> **Note:** Already shulkered beacons won't be placed automatically and cannot be placed again after `/reload`. Make sure to place them beforehand.
 
 ## License
 
@@ -24,4 +28,6 @@ The data pack is licensed under the GPLv3. For more information, take a look at 
 
 ## Inspiration
 
-[latest]: https://github.com/vanilla-friendly-datapacks/REPLACE/releases/latest
+The pack is inspired by [Boomber's Pocket Shulker](https://github.com/oOBoomberOo/pocket_shulker).
+
+[latest]: https://github.com/vanilla-friendly-datapacks/beacon-shulker/releases/latest

@@ -1,0 +1,6 @@
+execute if score block bsc matches 15828 run setblock ~ ~ ~ minecraft:crying_obsidian[]
+execute if score block bsc matches 15829 run setblock ~ ~ ~ minecraft:respawn_anchor[charges=0]
+execute if score block bsc matches 15830 run setblock ~ ~ ~ minecraft:respawn_anchor[charges=1]
+execute if score block bsc matches 15831 run setblock ~ ~ ~ minecraft:respawn_anchor[charges=2]
+execute if score block bsc matches 15832 run setblock ~ ~ ~ minecraft:respawn_anchor[charges=3]
+execute if score block bsc matches 15833 run setblock ~ ~ ~ minecraft:respawn_anchor[charges=4]

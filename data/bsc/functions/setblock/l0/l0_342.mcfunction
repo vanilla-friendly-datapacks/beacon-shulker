@@ -1,0 +1,6 @@
+execute if score block bsc matches 14961 run setblock ~ ~ ~ minecraft:stripped_warped_stem[axis=x]
+execute if score block bsc matches 14962 run setblock ~ ~ ~ minecraft:stripped_warped_stem[axis=y]
+execute if score block bsc matches 14963 run setblock ~ ~ ~ minecraft:stripped_warped_stem[axis=z]
+execute if score block bsc matches 14964 run setblock ~ ~ ~ minecraft:warped_hyphae[axis=x]
+execute if score block bsc matches 14965 run setblock ~ ~ ~ minecraft:warped_hyphae[axis=y]
+execute if score block bsc matches 14966 run setblock ~ ~ ~ minecraft:warped_hyphae[axis=z]

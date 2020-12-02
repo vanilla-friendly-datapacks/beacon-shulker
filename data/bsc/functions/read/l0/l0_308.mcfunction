@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:fire_coral_wall_fan[facing=north,waterlogged=true] run scoreboard players set block bsc 9624
+execute if block ~ ~ ~ minecraft:fire_coral_wall_fan[facing=north,waterlogged=false] run scoreboard players set block bsc 9625
+execute if block ~ ~ ~ minecraft:fire_coral_wall_fan[facing=south,waterlogged=true] run scoreboard players set block bsc 9626
+execute if block ~ ~ ~ minecraft:fire_coral_wall_fan[facing=south,waterlogged=false] run scoreboard players set block bsc 9627
+execute if block ~ ~ ~ minecraft:fire_coral_wall_fan[facing=west,waterlogged=true] run scoreboard players set block bsc 9628
+execute if block ~ ~ ~ minecraft:fire_coral_wall_fan[facing=west,waterlogged=false] run scoreboard players set block bsc 9629
+execute if block ~ ~ ~ minecraft:fire_coral_wall_fan[facing=east,waterlogged=true] run scoreboard players set block bsc 9630
+execute if block ~ ~ ~ minecraft:fire_coral_wall_fan[facing=east,waterlogged=false] run scoreboard players set block bsc 9631
+execute if block ~ ~ ~ minecraft:horn_coral_wall_fan[facing=north,waterlogged=true] run scoreboard players set block bsc 9632
+execute if block ~ ~ ~ minecraft:horn_coral_wall_fan[facing=north,waterlogged=false] run scoreboard players set block bsc 9633
+execute if block ~ ~ ~ minecraft:horn_coral_wall_fan[facing=south,waterlogged=true] run scoreboard players set block bsc 9634
+execute if block ~ ~ ~ minecraft:horn_coral_wall_fan[facing=south,waterlogged=false] run scoreboard players set block bsc 9635
+execute if block ~ ~ ~ minecraft:horn_coral_wall_fan[facing=west,waterlogged=true] run scoreboard players set block bsc 9636
+execute if block ~ ~ ~ minecraft:horn_coral_wall_fan[facing=west,waterlogged=false] run scoreboard players set block bsc 9637
+execute if block ~ ~ ~ minecraft:horn_coral_wall_fan[facing=east,waterlogged=true] run scoreboard players set block bsc 9638
+execute if block ~ ~ ~ minecraft:horn_coral_wall_fan[facing=east,waterlogged=false] run scoreboard players set block bsc 9639

@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:brain_coral_wall_fan[facing=north,waterlogged=true] run scoreboard players set block bsc 9608
+execute if block ~ ~ ~ minecraft:brain_coral_wall_fan[facing=north,waterlogged=false] run scoreboard players set block bsc 9609
+execute if block ~ ~ ~ minecraft:brain_coral_wall_fan[facing=south,waterlogged=true] run scoreboard players set block bsc 9610
+execute if block ~ ~ ~ minecraft:brain_coral_wall_fan[facing=south,waterlogged=false] run scoreboard players set block bsc 9611
+execute if block ~ ~ ~ minecraft:brain_coral_wall_fan[facing=west,waterlogged=true] run scoreboard players set block bsc 9612
+execute if block ~ ~ ~ minecraft:brain_coral_wall_fan[facing=west,waterlogged=false] run scoreboard players set block bsc 9613
+execute if block ~ ~ ~ minecraft:brain_coral_wall_fan[facing=east,waterlogged=true] run scoreboard players set block bsc 9614
+execute if block ~ ~ ~ minecraft:brain_coral_wall_fan[facing=east,waterlogged=false] run scoreboard players set block bsc 9615
+execute if block ~ ~ ~ minecraft:bubble_coral_wall_fan[facing=north,waterlogged=true] run scoreboard players set block bsc 9616
+execute if block ~ ~ ~ minecraft:bubble_coral_wall_fan[facing=north,waterlogged=false] run scoreboard players set block bsc 9617
+execute if block ~ ~ ~ minecraft:bubble_coral_wall_fan[facing=south,waterlogged=true] run scoreboard players set block bsc 9618
+execute if block ~ ~ ~ minecraft:bubble_coral_wall_fan[facing=south,waterlogged=false] run scoreboard players set block bsc 9619
+execute if block ~ ~ ~ minecraft:bubble_coral_wall_fan[facing=west,waterlogged=true] run scoreboard players set block bsc 9620
+execute if block ~ ~ ~ minecraft:bubble_coral_wall_fan[facing=west,waterlogged=false] run scoreboard players set block bsc 9621
+execute if block ~ ~ ~ minecraft:bubble_coral_wall_fan[facing=east,waterlogged=true] run scoreboard players set block bsc 9622
+execute if block ~ ~ ~ minecraft:bubble_coral_wall_fan[facing=east,waterlogged=false] run scoreboard players set block bsc 9623

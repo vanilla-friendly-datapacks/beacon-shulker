@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:stone_slab[type=top,waterlogged=true] run scoreboard players set block bsc 8336
+execute if block ~ ~ ~ minecraft:stone_slab[type=top,waterlogged=false] run scoreboard players set block bsc 8337
+execute if block ~ ~ ~ minecraft:stone_slab[type=bottom,waterlogged=true] run scoreboard players set block bsc 8338
+execute if block ~ ~ ~ minecraft:stone_slab[type=bottom,waterlogged=false] run scoreboard players set block bsc 8339
+execute if block ~ ~ ~ minecraft:stone_slab[type=double,waterlogged=true] run scoreboard players set block bsc 8340
+execute if block ~ ~ ~ minecraft:stone_slab[type=double,waterlogged=false] run scoreboard players set block bsc 8341
+execute if block ~ ~ ~ minecraft:smooth_stone_slab[type=top,waterlogged=true] run scoreboard players set block bsc 8342
+execute if block ~ ~ ~ minecraft:smooth_stone_slab[type=top,waterlogged=false] run scoreboard players set block bsc 8343
+execute if block ~ ~ ~ minecraft:smooth_stone_slab[type=bottom,waterlogged=true] run scoreboard players set block bsc 8344
+execute if block ~ ~ ~ minecraft:smooth_stone_slab[type=bottom,waterlogged=false] run scoreboard players set block bsc 8345
+execute if block ~ ~ ~ minecraft:smooth_stone_slab[type=double,waterlogged=true] run scoreboard players set block bsc 8346
+execute if block ~ ~ ~ minecraft:smooth_stone_slab[type=double,waterlogged=false] run scoreboard players set block bsc 8347
