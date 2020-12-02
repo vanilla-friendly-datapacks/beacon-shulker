@@ -1,3 +1,6 @@
+**TO THE PACK REVIEWER:** The `bsc` namespace is automatically generated. I think it is fully compliant with the conventions. Checking 2 or 3 files should be enough though as they are all the same way formatted. It only operates on the `block` player and `bsc` variable (which is the namespace, which should make it compliant).
+
+---
 # Beacon Shulker
 
 > A Minecraft 1.16.x data pack that allows you to easily transport your beacons around.
