@@ -5,4 +5,4 @@
 # If applicable, credit to other people's work is given in the readme #
 #######################################################################
 
-execute positioned ~ ~-1 ~ unless block ~ ~ ~ minecraft:bedrock run setblock ~ ~ ~ minecraft:beacon destroy
+execute positioned ~ ~-1 ~ unless block ~ ~ ~ minecraft:bedrock run setblock ~ ~ ~ minecraft:beacon replace
