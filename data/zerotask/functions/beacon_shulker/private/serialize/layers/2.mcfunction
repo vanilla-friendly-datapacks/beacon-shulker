@@ -6,9 +6,9 @@
 #######################################################################
 
 # 5x5 area.
-scoreboard players set $zt zt.x 5
-scoreboard players set $zt zt.z 5
-scoreboard players operation $zt.x zt.bs.var = $zt zt.x
+scoreboard players set $zt.bs.loop.x zt.bs.var 5
+scoreboard players set $zt.bs.loop.z zt.bs.var 5
+scoreboard players operation $zt.x zt.bs.var = $zt.bs.loop.x zt.bs.var
 
 # Start loop.
 execute positioned ~-2 ~-3 ~-2 run function zerotask:beacon_shulker/private/serialize/loop/x

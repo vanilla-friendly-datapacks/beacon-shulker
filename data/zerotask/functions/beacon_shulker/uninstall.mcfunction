@@ -7,6 +7,4 @@
 
 scoreboard objectives remove bsc
 scoreboard objectives remove zt.bs.raycast
-scoreboard objectives remove zt.bs.x
-scoreboard objectives remove zt.bs.z
 scoreboard objectives remove zt.bs.var

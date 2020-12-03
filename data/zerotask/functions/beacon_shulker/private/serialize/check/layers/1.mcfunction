@@ -6,9 +6,9 @@
 #######################################################################
 
 # 3x3 area.
-scoreboard players set $zt zt.x 3
-scoreboard players set $zt zt.z 3
-scoreboard players operation $zt.x zt.bs.var = $zt zt.x
+scoreboard players set $zt.bs.loop.x zt.bs.var 3
+scoreboard players set $zt.bs.loop.z zt.bs.var 3
+scoreboard players operation $zt.x zt.bs.var = $zt.bs.loop.x zt.bs.var
 scoreboard players set #is_non_beacon_material zt.bs.var 0
 
 # Start loop.

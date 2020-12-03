@@ -12,10 +12,6 @@ scoreboard objectives add bsc dummy
 # Raycasting steps.
 scoreboard objectives add zt.bs.raycast dummy
 
-# Maximum used to reset the loops when iterating through regions.
-scoreboard objectives add zt.bs.x dummy
-scoreboard objectives add zt.bs.z dummy
-
 # Scoreboard used for various tasks (calculation, index etc.).
 scoreboard objectives add zt.bs.var dummy
 #endregion
