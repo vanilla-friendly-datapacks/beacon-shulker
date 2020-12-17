@@ -1,9 +1,0 @@
-execute if block ~ ~ ~ minecraft:sea_pickle[pickles=1,waterlogged=true] run scoreboard players set block bsc 9640
-execute if block ~ ~ ~ minecraft:sea_pickle[pickles=1,waterlogged=false] run scoreboard players set block bsc 9641
-execute if block ~ ~ ~ minecraft:sea_pickle[pickles=2,waterlogged=true] run scoreboard players set block bsc 9642
-execute if block ~ ~ ~ minecraft:sea_pickle[pickles=2,waterlogged=false] run scoreboard players set block bsc 9643
-execute if block ~ ~ ~ minecraft:sea_pickle[pickles=3,waterlogged=true] run scoreboard players set block bsc 9644
-execute if block ~ ~ ~ minecraft:sea_pickle[pickles=3,waterlogged=false] run scoreboard players set block bsc 9645
-execute if block ~ ~ ~ minecraft:sea_pickle[pickles=4,waterlogged=true] run scoreboard players set block bsc 9646
-execute if block ~ ~ ~ minecraft:sea_pickle[pickles=4,waterlogged=false] run scoreboard players set block bsc 9647
-execute if block ~ ~ ~ minecraft:blue_ice[] run scoreboard players set block bsc 9648

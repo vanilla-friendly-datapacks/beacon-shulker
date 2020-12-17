@@ -1,6 +1,0 @@
-execute if score block bsc matches 4002 run setblock ~ ~ ~ minecraft:basalt[axis=x]
-execute if score block bsc matches 4003 run setblock ~ ~ ~ minecraft:basalt[axis=y]
-execute if score block bsc matches 4004 run setblock ~ ~ ~ minecraft:basalt[axis=z]
-execute if score block bsc matches 4005 run setblock ~ ~ ~ minecraft:polished_basalt[axis=x]
-execute if score block bsc matches 4006 run setblock ~ ~ ~ minecraft:polished_basalt[axis=y]
-execute if score block bsc matches 4007 run setblock ~ ~ ~ minecraft:polished_basalt[axis=z]

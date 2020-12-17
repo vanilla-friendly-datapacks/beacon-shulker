@@ -1,7 +1,0 @@
-execute if score block bsc matches 7856 run setblock ~ ~ ~ minecraft:dark_prismarine_slab[type=top,waterlogged=true]
-execute if score block bsc matches 7857 run setblock ~ ~ ~ minecraft:dark_prismarine_slab[type=top,waterlogged=false]
-execute if score block bsc matches 7858 run setblock ~ ~ ~ minecraft:dark_prismarine_slab[type=bottom,waterlogged=true]
-execute if score block bsc matches 7859 run setblock ~ ~ ~ minecraft:dark_prismarine_slab[type=bottom,waterlogged=false]
-execute if score block bsc matches 7860 run setblock ~ ~ ~ minecraft:dark_prismarine_slab[type=double,waterlogged=true]
-execute if score block bsc matches 7861 run setblock ~ ~ ~ minecraft:dark_prismarine_slab[type=double,waterlogged=false]
-execute if score block bsc matches 7862 run setblock ~ ~ ~ minecraft:sea_lantern[]

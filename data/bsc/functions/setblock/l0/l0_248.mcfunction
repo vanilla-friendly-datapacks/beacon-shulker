@@ -1,5 +1,0 @@
-execute if score block bsc matches 9218 run setblock ~ ~ ~ minecraft:end_stone_bricks[]
-execute if score block bsc matches 9219 run setblock ~ ~ ~ minecraft:beetroots[age=0]
-execute if score block bsc matches 9220 run setblock ~ ~ ~ minecraft:beetroots[age=1]
-execute if score block bsc matches 9221 run setblock ~ ~ ~ minecraft:beetroots[age=2]
-execute if score block bsc matches 9222 run setblock ~ ~ ~ minecraft:beetroots[age=3]

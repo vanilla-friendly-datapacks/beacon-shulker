@@ -1,8 +1,0 @@
-execute if score block bsc matches 9414 run setblock ~ ~ ~ minecraft:purple_glazed_terracotta[facing=north]
-execute if score block bsc matches 9415 run setblock ~ ~ ~ minecraft:purple_glazed_terracotta[facing=south]
-execute if score block bsc matches 9416 run setblock ~ ~ ~ minecraft:purple_glazed_terracotta[facing=west]
-execute if score block bsc matches 9417 run setblock ~ ~ ~ minecraft:purple_glazed_terracotta[facing=east]
-execute if score block bsc matches 9418 run setblock ~ ~ ~ minecraft:blue_glazed_terracotta[facing=north]
-execute if score block bsc matches 9419 run setblock ~ ~ ~ minecraft:blue_glazed_terracotta[facing=south]
-execute if score block bsc matches 9420 run setblock ~ ~ ~ minecraft:blue_glazed_terracotta[facing=west]
-execute if score block bsc matches 9421 run setblock ~ ~ ~ minecraft:blue_glazed_terracotta[facing=east]

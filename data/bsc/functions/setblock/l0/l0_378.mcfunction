@@ -1,8 +1,0 @@
-execute if score block bsc matches 16745 run setblock ~ ~ ~ minecraft:polished_blackstone_slab[type=top,waterlogged=true]
-execute if score block bsc matches 16746 run setblock ~ ~ ~ minecraft:polished_blackstone_slab[type=top,waterlogged=false]
-execute if score block bsc matches 16747 run setblock ~ ~ ~ minecraft:polished_blackstone_slab[type=bottom,waterlogged=true]
-execute if score block bsc matches 16748 run setblock ~ ~ ~ minecraft:polished_blackstone_slab[type=bottom,waterlogged=false]
-execute if score block bsc matches 16749 run setblock ~ ~ ~ minecraft:polished_blackstone_slab[type=double,waterlogged=true]
-execute if score block bsc matches 16750 run setblock ~ ~ ~ minecraft:polished_blackstone_slab[type=double,waterlogged=false]
-execute if score block bsc matches 16751 run setblock ~ ~ ~ minecraft:polished_blackstone_pressure_plate[powered=true]
-execute if score block bsc matches 16752 run setblock ~ ~ ~ minecraft:polished_blackstone_pressure_plate[powered=false]

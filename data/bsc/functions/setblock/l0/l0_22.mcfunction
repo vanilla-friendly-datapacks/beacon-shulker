@@ -1,6 +1,0 @@
-execute if score block bsc matches 100 run setblock ~ ~ ~ minecraft:stripped_acacia_log[axis=x]
-execute if score block bsc matches 101 run setblock ~ ~ ~ minecraft:stripped_acacia_log[axis=y]
-execute if score block bsc matches 102 run setblock ~ ~ ~ minecraft:stripped_acacia_log[axis=z]
-execute if score block bsc matches 103 run setblock ~ ~ ~ minecraft:stripped_dark_oak_log[axis=x]
-execute if score block bsc matches 104 run setblock ~ ~ ~ minecraft:stripped_dark_oak_log[axis=y]
-execute if score block bsc matches 105 run setblock ~ ~ ~ minecraft:stripped_dark_oak_log[axis=z]
