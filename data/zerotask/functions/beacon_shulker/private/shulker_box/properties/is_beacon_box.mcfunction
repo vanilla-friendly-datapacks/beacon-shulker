@@ -6,4 +6,4 @@
 #######################################################################
 
 scoreboard players set #is_beacon_shulker_box zt.bs.var 0
-execute if data block ~ ~ ~ Items[{Slot: 13b}] run scoreboard players set #is_beacon_shulker_box zt.bs.var 1
+execute if data block ~ ~ ~ Items[{Slot: 13b, id: "minecraft:beacon"}].tag.Blocks run scoreboard players set #is_beacon_shulker_box zt.bs.var 1
